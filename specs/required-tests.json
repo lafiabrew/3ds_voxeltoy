@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "repo": "3ds_voxeltoy",
+  "contract_file": "tests/test_contract.py",
+  "tests": [
+    "test_edit_mesh_bounds_and_reset",
+    "test_log_schema_and_recovery",
+    "test_required_names"
+  ],
+  "missing_skipped_unselected": "FAIL",
+  "extra_engine_verifier": false
+}
